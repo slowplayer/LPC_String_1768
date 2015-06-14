@@ -1,0 +1,10 @@
+.\uart.o: uart.c
+.\uart.o: F:\Keil-MDK\ARM\Inc\NXP\LPC17xx\LPC17xx.h
+.\uart.o: F:\Keil-MDK\ARM\CMSIS\Include\core_cm3.h
+.\uart.o: F:\Keil-MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\uart.o: F:\Keil-MDK\ARM\CMSIS\Include\core_cmInstr.h
+.\uart.o: F:\Keil-MDK\ARM\CMSIS\Include\core_cmFunc.h
+.\uart.o: F:\Keil-MDK\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\uart.o: uart.h
+.\uart.o: F:\Keil-MDK\ARM\ARMCC\bin\..\include\stdio.h
+.\uart.o: F:\Keil-MDK\ARM\ARMCC\bin\..\include\stdarg.h
